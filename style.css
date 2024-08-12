@@ -1,0 +1,42 @@
+
+nav{
+    background-color: skyblue;
+    padding:5px;
+}
+
+.list{
+    display:inline-block;
+    padding:5px;
+    font-size:15px;
+}
+
+
+
+header{
+    padding:5px;
+     text-align:center;
+    background-color: purple;
+    color:white;
+    
+}
+LI A{
+    text-decoration:none ;
+    color:blue;
+}
+
+div{
+
+    background-color: paleturquoise;
+}
+
+footer{
+    background-color: skyblue;
+    padding:5px;
+}
+
+p{
+    text-align:center;
+    font-size:20px ;
+}
+
+
